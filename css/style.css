@@ -32,6 +32,9 @@
   3.grid-row end 4. grid-column-end*/
   grid-area: 2 / 4 / 6 / 5;
 }
+.equal-sign:hover {
+  background-color: #4e9ed4;
+}
 
 /*margin & padding , box-sizing & border-box 테두리 폭 줄이기*/
 html {
@@ -103,11 +106,8 @@ button:hover {
 .all-clear:hover {
   background-color: #f17377;
 }
-.equal-sign {
+/* .equal-sign {
   background-color: #2e86c0;
   border-color: #337cac;
   color: #fff;
-}
-.equal-sign:hover {
-  background-color: #4e9ed4;
-}
+} */
